@@ -3,7 +3,7 @@ package appLogger
 import (
 	"fmt"
 
-	"github.com/tuan-dd/common-lib/common"
+	"github.com/tuan-dd/crypto-backend-lib/common"
 
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"

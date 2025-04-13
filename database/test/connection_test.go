@@ -4,8 +4,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/tuan-dd/common-lib/database"
-	"github.com/tuan-dd/common-lib/settings"
+	"github.com/tuan-dd/crypto-backend-lib/database"
+	"github.com/tuan-dd/crypto-backend-lib/settings"
 )
 
 func TestNewConnection(t *testing.T) {

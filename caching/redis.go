@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"log/slog"
 
-	"github.com/tuan-dd/common-lib/response"
-	"github.com/tuan-dd/common-lib/settings"
+	"github.com/tuan-dd/crypto-backend-lib/response"
+	"github.com/tuan-dd/crypto-backend-lib/settings"
 
 	redisV9 "github.com/redis/go-redis/v9"
 )

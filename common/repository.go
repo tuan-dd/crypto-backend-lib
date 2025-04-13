@@ -9,9 +9,9 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/tuan-dd/common-lib/constants"
-	"github.com/tuan-dd/common-lib/response"
-	"github.com/tuan-dd/common-lib/utils"
+	"github.com/tuan-dd/crypto-backend-lib/constants"
+	"github.com/tuan-dd/crypto-backend-lib/response"
+	"github.com/tuan-dd/crypto-backend-lib/utils"
 )
 
 type (

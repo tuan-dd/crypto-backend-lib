@@ -3,8 +3,8 @@ package caching_test
 import (
 	"testing"
 
-	"github.com/tuan-dd/common-lib/caching"
-	"github.com/tuan-dd/common-lib/settings"
+	"github.com/tuan-dd/crypto-backend-lib/caching"
+	"github.com/tuan-dd/crypto-backend-lib/settings"
 
 	"github.com/stretchr/testify/require"
 )

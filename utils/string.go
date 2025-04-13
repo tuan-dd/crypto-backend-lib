@@ -7,8 +7,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/tuan-dd/common-lib/constants"
-	"github.com/tuan-dd/common-lib/response"
+	"github.com/tuan-dd/crypto-backend-lib/constants"
+	"github.com/tuan-dd/crypto-backend-lib/response"
 
 	"github.com/samber/lo"
 	"github.com/sqids/sqids-go"

@@ -1,7 +1,7 @@
 package grpcservice
 
 import (
-	"github.com/tuan-dd/common-lib/response"
+	"github.com/tuan-dd/crypto-backend-lib/response"
 
 	"google.golang.org/grpc"
 )

@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/tuan-dd/common-lib/constants"
-	"github.com/tuan-dd/common-lib/dtos/duser"
-	"github.com/tuan-dd/common-lib/utils"
+	"github.com/tuan-dd/crypto-backend-lib/constants"
+	"github.com/tuan-dd/crypto-backend-lib/dtos/duser"
+	"github.com/tuan-dd/crypto-backend-lib/utils"
 )
 
 type (

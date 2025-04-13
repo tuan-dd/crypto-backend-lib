@@ -4,8 +4,8 @@ import (
 	"database/sql"
 	"fmt"
 
-	"github.com/tuan-dd/common-lib/response"
-	"github.com/tuan-dd/common-lib/settings"
+	"github.com/tuan-dd/crypto-backend-lib/response"
+	"github.com/tuan-dd/crypto-backend-lib/settings"
 
 	_ "github.com/lib/pq"
 )

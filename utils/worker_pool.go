@@ -4,7 +4,7 @@ import (
 	"context"
 	"sync"
 
-	"github.com/tuan-dd/common-lib/response"
+	"github.com/tuan-dd/crypto-backend-lib/response"
 
 	"golang.org/x/sync/errgroup"
 )

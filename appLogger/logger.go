@@ -7,9 +7,9 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/tuan-dd/common-lib/constants"
-	"github.com/tuan-dd/common-lib/response"
-	"github.com/tuan-dd/common-lib/settings"
+	"github.com/tuan-dd/crypto-backend-lib/constants"
+	"github.com/tuan-dd/crypto-backend-lib/response"
+	"github.com/tuan-dd/crypto-backend-lib/settings"
 
 	"github.com/natefinch/lumberjack"
 	"go.uber.org/zap"

@@ -1,7 +1,7 @@
 package orm
 
 import (
-	"github.com/tuan-dd/common-lib/utils"
+	"github.com/tuan-dd/crypto-backend-lib/utils"
 
 	"entgo.io/ent"
 	"entgo.io/ent/schema/field"
