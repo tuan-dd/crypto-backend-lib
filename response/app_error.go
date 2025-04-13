@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"crypto-dashboard/common-lib/constants"
+	"github.com/tuan-dd/common-lib/constants"
 )
 
 type AppError struct {

@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"time"
 
-	"crypto-dashboard/common-lib/response"
+	"github.com/tuan-dd/common-lib/response"
 
 	jose "github.com/go-jose/go-jose/v4"
 	"github.com/golang-jwt/jwt"

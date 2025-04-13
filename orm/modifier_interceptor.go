@@ -3,9 +3,9 @@ package orm
 import (
 	"context"
 
-	"crypto-dashboard/common-lib/common"
+	"github.com/tuan-dd/common-lib/common"
 
-	"crypto-dashboard/common-lib/utils"
+	"github.com/tuan-dd/common-lib/utils"
 
 	"entgo.io/ent"
 )

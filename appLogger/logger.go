@@ -7,9 +7,9 @@ import (
 	"path/filepath"
 	"time"
 
-	"crypto-dashboard/common-lib/constants"
-	"crypto-dashboard/common-lib/response"
-	"crypto-dashboard/common-lib/settings"
+	"github.com/tuan-dd/common-lib/constants"
+	"github.com/tuan-dd/common-lib/response"
+	"github.com/tuan-dd/common-lib/settings"
 
 	"github.com/natefinch/lumberjack"
 	"go.uber.org/zap"

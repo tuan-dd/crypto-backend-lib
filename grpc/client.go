@@ -1,7 +1,7 @@
 package grpcservice
 
 import (
-	"crypto-dashboard/common-lib/response"
+	"github.com/tuan-dd/common-lib/response"
 
 	"google.golang.org/grpc"
 )

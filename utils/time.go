@@ -3,8 +3,8 @@ package utils
 import (
 	"time"
 
-	"crypto-dashboard/common-lib/constants"
-	"crypto-dashboard/common-lib/response"
+	"github.com/tuan-dd/common-lib/constants"
+	"github.com/tuan-dd/common-lib/response"
 
 	"github.com/samber/lo"
 )

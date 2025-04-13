@@ -7,8 +7,8 @@ import (
 	"log"
 	"time"
 
-	"crypto-dashboard/common-lib/response"
-	"crypto-dashboard/common-lib/settings"
+	"github.com/tuan-dd/common-lib/response"
+	"github.com/tuan-dd/common-lib/settings"
 
 	"github.com/jackc/pgx/v5/pgxpool"
 	"github.com/jackc/pgx/v5/stdlib"

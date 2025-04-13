@@ -1,4 +1,4 @@
-module crypto-dashboard/common-lib
+module github.com/tuan-dd/common-lib
 
 go 1.24.0
 

@@ -6,7 +6,7 @@ package example
 // 	"log"
 // 	"time"
 
-// 	database "crypto-dashboard/common-lib/database/postgres"
+// 	database "github.com/tuan-dd/common-lib/database/postgres"
 // )
 
 // func Init() {

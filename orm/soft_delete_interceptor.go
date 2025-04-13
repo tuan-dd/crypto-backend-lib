@@ -4,7 +4,7 @@ import (
 	"context"
 	"time"
 
-	"crypto-dashboard/common-lib/utils"
+	"github.com/tuan-dd/common-lib/utils"
 
 	"entgo.io/ent"
 	"entgo.io/ent/dialect/sql"

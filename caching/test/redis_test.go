@@ -3,8 +3,8 @@ package caching_test
 import (
 	"testing"
 
-	"crypto-dashboard/common-lib/caching"
-	"crypto-dashboard/common-lib/settings"
+	"github.com/tuan-dd/common-lib/caching"
+	"github.com/tuan-dd/common-lib/settings"
 
 	"github.com/stretchr/testify/require"
 )

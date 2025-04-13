@@ -1,7 +1,7 @@
 package orm
 
 import (
-	"crypto-dashboard/common-lib/utils"
+	"github.com/tuan-dd/common-lib/utils"
 
 	"entgo.io/ent"
 	"entgo.io/ent/schema/field"

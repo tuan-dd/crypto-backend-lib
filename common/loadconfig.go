@@ -3,7 +3,7 @@ package common
 import (
 	"fmt"
 
-	"crypto-dashboard/common-lib/response"
+	"github.com/tuan-dd/common-lib/response"
 
 	"github.com/spf13/viper"
 )
