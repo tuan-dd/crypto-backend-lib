@@ -4,7 +4,6 @@ type KeyType string
 
 const (
 	CORRELATION_ID_KEY       KeyType = "correlation-id"
-	REQUEST_ID_KEY           KeyType = "request-id"
 	SERVICE_KEY              KeyType = "service"
 	REQUEST_CONTEXT_KEY      KeyType = "x-request-info"
 	AUTHORIZATION_KEY        KeyType = "Authorization"
